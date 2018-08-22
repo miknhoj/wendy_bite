@@ -1,0 +1,35 @@
+body {
+    background-color:rgba(68,68,68,1);
+    border: 3px solid rgba(119,119,119,1);
+    margin: 20px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+    text-align: center;
+    margin: 50px;
+    font-weight: 400;
+}
+
+nav {
+    text-align: center;
+    font-weight: bold;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(131,208,163,1);
+    text-align: center;
+}
+
+.active {
+    color: rgba(255,255,255,1);
+    text-decoration: none;
+}
+
+h2 {
+    
+}
